@@ -1,0 +1,10 @@
+vprofilekey
+vprofilekey.pub
+./     
+.gitignore   
+.terraform.lock.hcl  
+../    
+.idea/
+.git/  
+.terraform/
+
